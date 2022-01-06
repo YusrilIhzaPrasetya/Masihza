@@ -1,8 +1,8 @@
 
 ### Hi there 👋
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
- <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=aldisakti2&count_private=true&show_icons=true&theme=gotham">
+<a href="https://github.com/YusrilIhzaPrasetya/github-readme-stats">
+ <img align="center" src="https://github-readme-stats.YusrilIhzaPrasetya.vercel.app/api?username=YusrilIhzaPrasetya&count_private=true&show_icons=true&theme=gotham">
 </a>
 
 <!--
